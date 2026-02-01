@@ -1,0 +1,1 @@
+a=int(input("Enter a 1st number:"))
