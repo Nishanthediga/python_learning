@@ -26,3 +26,6 @@ nishanth.update({"grade":"O"})
 print(nishanth.get("name"))
 print(nishanth.pop("age"))
 print(nishanth)
+
+#to create a empty dictionary
+d={}
