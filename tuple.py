@@ -1,0 +1,7 @@
+a=()
+b=(1,)
+c=(1,2,3,4,5,5,6,6,6,6,6)
+d=(1)
+print(type(b),type(a),type(d))
+print(c.count(6))
+print(c.index(6))
