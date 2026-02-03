@@ -1,0 +1,2 @@
+I am writing this line to the file
+I am appending this line to the file
